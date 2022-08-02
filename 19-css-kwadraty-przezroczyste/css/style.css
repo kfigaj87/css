@@ -1,0 +1,23 @@
+section {
+  background-color: #f5f5dd;
+  margin-right: 1250px;
+  height: 350px;
+}
+.box {
+  background-color: black;
+  width: 70px;
+  height: 70px;
+  margin-bottom: 5px;
+}
+.container1 {
+  opacity: 1;
+}
+.container2 {
+  opacity: 0.75;
+}
+.container3 {
+  opacity: 0.5;
+}
+.container4 {
+  opacity: 0.25;
+}

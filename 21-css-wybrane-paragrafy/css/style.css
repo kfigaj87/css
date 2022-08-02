@@ -1,0 +1,13 @@
+p {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.obcy {
+  background-color: blue;
+  opacity: 0.5;
+}
+
+.obcy1 {
+  opacity: 0.1;
+}

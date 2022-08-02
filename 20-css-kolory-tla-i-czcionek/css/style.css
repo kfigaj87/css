@@ -1,0 +1,36 @@
+section {
+  background-color: rgb(165, 151, 42);
+  margin-right: 1150px;
+}
+h1 {
+  background-color: blueviolet;
+}
+h2 {
+  background-color: rgb(132, 24, 30);
+}
+.paragraf1 {
+  background-color: aquamarine;
+  color: rgb(13, 5, 5);
+}
+.paragraf2 {
+  background-color: rgb(193, 230, 48);
+}
+
+.item1 {
+  color: brown;
+}
+.item2 {
+  color: aqua;
+}
+.item3 {
+  color: rgb(42, 232, 21);
+}
+.item4 {
+  color: aliceblue;
+}
+.item {
+  color: black;
+}
+.lista {
+  background-color: red;
+}

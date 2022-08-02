@@ -1,0 +1,18 @@
+section {
+  background-color: #808080;
+  width: 395px;
+
+  position: absolute;
+  height: calc(-203.217px + 100vh);
+}
+div {
+  background-color: #fea500;
+  width: 90px;
+  height: 90px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+h1 {
+  margin-left: 15px;
+  color: aliceblue;
+}

@@ -1,0 +1,14 @@
+.tekst {
+  color: blue;
+}
+h3 {
+  color: azure;
+  background-color: brown;
+}
+h1 {
+  color: rgb(205, 255, 216);
+  background-color: blueviolet;
+}
+h1 + h3 {
+  color: red;
+}

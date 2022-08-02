@@ -1,0 +1,17 @@
+div {
+  background-color: #faebd6;
+  margin-bottom: 20px;
+  min-height: 200px;
+  margin-right: 450px;
+}
+
+h1 {
+  color: #ff0000;
+}
+p {
+  color: #a42423;
+  font-size: 25px;
+}
+span {
+  color: #00008f;
+}
